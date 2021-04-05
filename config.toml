@@ -1,4 +1,5 @@
-baseurl = "http://www.example.com"
+publishDir = "docs"
+baseurl = "https://akarsh-enciphers.github.io/testingv2/"
 languageCode = "en-us"
 title = " Threads"
 theme = "blackburn"
